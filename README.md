@@ -1,6 +1,6 @@
-# Aptos SDK Project
+# Aptos  Project
 
-This project demonstrates how to use the Aptos SDK to interact with the Aptos blockchain. It includes examples of connecting to the blockchain, fetching account information, and more.
+Project use AI for trading coin auto
 
 ## Relationship to Aptos
 
