@@ -14,9 +14,8 @@ To get started, clone the repository and install the necessary dependencies:
 git clone https://github.com/your-username/aptos-sdk-project.git
 cd aptos-sdk-project
 npm install
+```
 
-
----------------------------------
 
 <a href="https://aptos.dev">
 	<img width="100%" src="./.assets/aptos_banner.png" alt="Aptos Banner" />
